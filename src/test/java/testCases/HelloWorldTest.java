@@ -7,7 +7,7 @@ public class HelloWorldTest {
     @Test
     void display()
     {
-        System.out.println("Hello World Amit Senu");
+        System.out.println("Say hello world to Amit Senu");
     }
 
 }
