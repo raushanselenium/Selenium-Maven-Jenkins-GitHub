@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Demo Test Suite for Jenkins Demo">
-    <test verbose="2" preserve-order="true" name="Demo Test">
+    <test verbose="2" preserve-order="true" name="Demo Test for polling">
         <classes>
             <class name="testCases.DemoProgram"/>
             <class name="testCases.HelloWorldTest"/>
