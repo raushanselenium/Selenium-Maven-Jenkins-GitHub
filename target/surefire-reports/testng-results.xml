@@ -2,18 +2,25 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Demo Test Suite for Jenkins Demo" duration-ms="3872" started-at="2022-02-06T11:11:09 IST" finished-at="2022-02-06T11:11:13 IST">
+  <suite name="Demo Test Suite for Jenkins Demo" duration-ms="6316" started-at="2022-02-06T13:19:15 IST" finished-at="2022-02-06T13:19:21 IST">
     <groups>
     </groups>
-    <test name="Demo Test" duration-ms="3872" started-at="2022-02-06T11:11:09 IST" finished-at="2022-02-06T11:11:13 IST">
+    <test name="Demo Test" duration-ms="6316" started-at="2022-02-06T13:19:15 IST" finished-at="2022-02-06T13:19:21 IST">
       <class name="testCases.DemoProgram">
-        <test-method status="PASS" signature="demo_startBrowser()[pri:0, instance:testCases.DemoProgram@78ac1102]" name="demo_startBrowser" duration-ms="3837" started-at="2022-02-06T11:11:09 IST" finished-at="2022-02-06T11:11:13 IST">
+        <test-method status="PASS" signature="demo_startBrowser(java.lang.String)[pri:0, instance:testCases.DemoProgram@a74868d]" name="demo_startBrowser" duration-ms="6279" started-at="2022-02-06T13:19:15 IST" finished-at="2022-02-06T13:19:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demo_startBrowser -->
       </class> <!-- testCases.DemoProgram -->
       <class name="testCases.HelloWorldTest">
-        <test-method status="PASS" signature="display()[pri:0, instance:testCases.HelloWorldTest@25bbf683]" name="display" duration-ms="0" started-at="2022-02-06T11:11:13 IST" finished-at="2022-02-06T11:11:13 IST">
+        <test-method status="PASS" signature="display()[pri:0, instance:testCases.HelloWorldTest@544a2ea6]" name="display" duration-ms="1" started-at="2022-02-06T13:19:21 IST" finished-at="2022-02-06T13:19:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- display -->
