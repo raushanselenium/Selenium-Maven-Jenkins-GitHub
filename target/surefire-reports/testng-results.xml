@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Demo Test Suite for Jenkins Demo" duration-ms="6316" started-at="2022-02-06T13:19:15 IST" finished-at="2022-02-06T13:19:21 IST">
+  <suite name="Demo Test Suite for Jenkins Demo" duration-ms="6018" started-at="2022-02-07T12:21:12 IST" finished-at="2022-02-07T12:21:18 IST">
     <groups>
     </groups>
-    <test name="Demo Test" duration-ms="6316" started-at="2022-02-06T13:19:15 IST" finished-at="2022-02-06T13:19:21 IST">
+    <test name="Demo Test" duration-ms="6018" started-at="2022-02-07T12:21:12 IST" finished-at="2022-02-07T12:21:18 IST">
       <class name="testCases.DemoProgram">
-        <test-method status="PASS" signature="demo_startBrowser(java.lang.String)[pri:0, instance:testCases.DemoProgram@a74868d]" name="demo_startBrowser" duration-ms="6279" started-at="2022-02-06T13:19:15 IST" finished-at="2022-02-06T13:19:21 IST">
+        <test-method status="PASS" signature="demo_startBrowser(java.lang.String)[pri:0, instance:testCases.DemoProgram@a74868d]" name="demo_startBrowser" duration-ms="5982" started-at="2022-02-07T12:21:12 IST" finished-at="2022-02-07T12:21:18 IST">
           <params>
             <param index="0">
               <value>
@@ -20,7 +20,7 @@
         </test-method> <!-- demo_startBrowser -->
       </class> <!-- testCases.DemoProgram -->
       <class name="testCases.HelloWorldTest">
-        <test-method status="PASS" signature="display()[pri:0, instance:testCases.HelloWorldTest@544a2ea6]" name="display" duration-ms="1" started-at="2022-02-06T13:19:21 IST" finished-at="2022-02-06T13:19:21 IST">
+        <test-method status="PASS" signature="display()[pri:0, instance:testCases.HelloWorldTest@544a2ea6]" name="display" duration-ms="1" started-at="2022-02-07T12:21:18 IST" finished-at="2022-02-07T12:21:18 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- display -->
